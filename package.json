@@ -1,5 +1,5 @@
 {
-	"name": "aws-amplify-monorepo",
+	"name": "@one.com/aws-amplify-monorepo",
 	"private": true,
 	"version": "0.1.30",
 	"description": "",
@@ -31,12 +31,12 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/aws-amplify/amplify-js.git"
+		"url": "https://github.com/One-com/amplify-js.git"
 	},
 	"author": "Amazon Web Services",
 	"license": "Apache-2.0",
 	"bugs": {
-		"url": "https://github.com/aws-amplify/amplify-js/issues"
+		"url": "https://github.com/One-com/amplify-js/issues"
 	},
 	"homepage": "https://aws-amplify.github.io/",
 	"devDependencies": {
